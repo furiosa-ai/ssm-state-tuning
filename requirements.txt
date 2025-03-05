@@ -1,0 +1,26 @@
+numpy<2
+evaluate
+datasets
+tensorboard
+nltk
+pandas
+scipy
+scikit-learn
+pyfaidx
+transformers==4.40.2
+rouge-score
+records
+babel
+einops
+pillow
+py7zr
+jinja2
+pynvml
+wandb
+
+# flash-attn==2.5.8 --no-build-isolation
+# conda install pytorch==2.1.1 torchvision==0.16.1 torchaudio==2.1.1 pytorch-cuda=12.1 -c pytorch -c nvidia
+# cd src/mamba; pip install -e .
+
+# scikit-image
+# opencv-python

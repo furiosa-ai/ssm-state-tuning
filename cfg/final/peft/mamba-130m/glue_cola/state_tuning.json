@@ -1,0 +1,1 @@
+{"peft_type": "SUFFIX_TUNING", "bias_init": "ZERO", "bias_type": "SILU_Z_C"}

@@ -1,0 +1,9 @@
+batch_size: 4
+data: glue_mnli
+learning_rate: 0.004
+model: state-spaces/mamba-130m
+no_save: false
+num_epochs: 3
+peft: cfg/final/peft/mamba-130m/glue_mnli/add_scan.json
+prec: bf16
+seed: 42
