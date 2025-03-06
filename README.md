@@ -9,13 +9,13 @@
     </h4>
 
 <p align="center">
-    <a href="TODO">
-        <img alt="GitHub release" src="https://img.shields.io/badge/arXiv-TODO-b31b1b.svg">
+    <a href="https://arxiv.org/abs/2503.03499">
+        <img alt="GitHub release" src="https://img.shields.io/badge/arXiv-2503.03499-b31b1b.svg">
     </a>
 </p>
 
 
-**Paper Link**: TODO
+**Paper Link**: [arXiv](https://arxiv.org/abs/2503.03499)
 
 <p align="center">
   <img src="docs/images/teaser.png" width="50%">
