@@ -57,3 +57,13 @@ State Space Models (SSMs) have emerged as efficient alternatives to Transformers
 # train
 python run_all.py train.py --device 0 --cfg cfg/final/exps/mamba-*/*/*.yaml
 ```
+
+## Citation
+```tex
+@article{kang2025state,
+  title={State-offset Tuning: State-based Parameter-Efficient Fine-Tuning for State Space Models},
+  author={Kang, Wonjun and Galim, Kevin and Zeng, Yuchen and Lee, Minjae and Koo, Hyung Il and Cho, Nam Ik},
+  journal={arXiv preprint arXiv:2503.03499},
+  year={2025}
+}
+```
