@@ -25,7 +25,8 @@ State Space Models (SSMs) have emerged as efficient alternatives to Transformers
 
 ## Updates
 
-* [03/05/25] Code released.
+- `2025-05-15` Accepted to ACL 2025 Main.
+- `2025-03-05` Code released.
 
 ### Setup
 - Install dependencies
